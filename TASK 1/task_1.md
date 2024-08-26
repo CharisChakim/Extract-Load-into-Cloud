@@ -1,6 +1,6 @@
 # TASK 1
 
-Mwmbuat script python untuk extract data dari file .json yang ada di GCS --> load data yang sudah di extract ke bigquery
+Membuat script python untuk extract data dari file .json yang ada di GCS --> load data yang sudah di extract ke bigquery
 
 example:
 
