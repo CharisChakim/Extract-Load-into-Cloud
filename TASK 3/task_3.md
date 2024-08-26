@@ -1,7 +1,4 @@
 # TASK 3
-Lakukan sesuai module day 3
-
-# ANS
 Create environment untuk composer API GCP, sebelum membuat environtmentnya pastikan composer API sudah enable. Jika sudah ter-enable maka tampilan akan seperti ini. Pilih Composer 1 atau 2 bebas, disini saya memilih composer 1
 
 ![Alt text](image-1.png)
